@@ -7,8 +7,7 @@ Kivi Board Game is a digital version of the existing board game called Kivi. For
 ## Built with
 * Java (Java Swing)
 
----
-🎮 Game Features:
+## 🎮 Game Features:
 * Pattern-Based Gameplay: Match dice to tile patterns to score.
 
 * Roll & Match: Roll six dice each turn and choose tiles matching the roll.
@@ -21,7 +20,7 @@ Kivi Board Game is a digital version of the existing board game called Kivi. For
 
 * Easy-to-Use Interface: Point-and-click style interaction.
 
-⏬ **Usage**
+## ⏬ Usage
 
 Pre-requisite: Have the latest version of Java installed
 1. Download ```KomputerKivi.jar```
@@ -29,7 +28,7 @@ Pre-requisite: Have the latest version of Java installed
 3. Type ```java -jar KomputerKivi.jar``` and press Enter
 4. Game should open up and work!
 
-📝 **How to Play**
+## 📝 How to Play
 
 **Start the Game: Launch the game and choose “New Game” from the main menu.**
 
@@ -48,7 +47,7 @@ Pre-requisite: Have the latest version of Java installed
 ![Capture](https://github.com/user-attachments/assets/7bc2aec2-c9b5-49cb-9c3d-e793b85fc922)
 
 
-**Gameplay**
+## Gameplay
 
 On your turn, click "Roll Dice".
 
