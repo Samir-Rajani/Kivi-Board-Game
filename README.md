@@ -70,7 +70,7 @@ The game continues in rounds until all tiles are claimed or a predefined round l
 * All documentation can be found in the ```docs``` folder
 * You can also run ```index.html``` in your internet browser
 
-** Color Vision Accessibility: ** The game was designed with color accessibility in mind. Examples of what the game would look like for different color sensitivities can be found in the ```color_vision_examples``` folder
+**Color Vision Accessibility:** The game was designed with color accessibility in mind. Examples of what the game would look like for different color sensitivities can be found in the ```color_vision_examples``` folder
 
 <!--<a id="readme-top"></a>
 <h3 align="center">Kivi Board Game</h3>
