@@ -1,19 +1,25 @@
-# Kivi-Board-Game
+# Kivi Board Game
 Java Board Game with AI opponents.
 
+## About The Project
+Kivi Board Game is a digital version of the existing board game called Kivi. For the COMP 2005: Software Engineering course at the Memorial University of Newfoundland, our class was tasked with grouping up in teams and building a digital version of the board game Kivi. This is where I partnered with 4 other classmates to build this game.
+
+### Built with
+* Java (Java Swing)
+
+---
 🎮 Game Features:
+* Pattern-Based Gameplay: Match dice to tile patterns to score.
 
-Pattern-Based Gameplay: Match dice to tile patterns to score.
+* Roll & Match: Roll six dice each turn and choose tiles matching the roll.
 
-🎲 Roll & Match: Roll six dice each turn and choose tiles matching the roll.
+* Robot Opponents: Play against Normal or Evil AI characters.
 
-🤖 Robot Opponents: Play against Normal or Evil AI characters.
+* Up to 4 Players: Mix of human and robot players.
 
-👥 Up to 4 Players: Mix of human and robot players.
+* Colorful Characters: Choose from Pico, Luna, Byte, Milo, and more.
 
-🎨 Colorful Characters: Choose from Pico, Luna, Byte, Milo, and more.
-
-🕹️ Easy-to-Use Interface: Point-and-click style interaction.
+* Easy-to-Use Interface: Point-and-click style interaction.
 
 ⏬ **Usage**
 
