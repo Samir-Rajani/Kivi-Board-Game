@@ -15,6 +15,13 @@ Pattern-Based Gameplay: Match dice to tile patterns to score.
 
 🕹️ Easy-to-Use Interface: Point-and-click style interaction.
 
+⏬ **Usage**
+
+Pre-requisite: Have the latest version of Java installed
+1. Download ```KomputerKivi.jar```
+2. Open a command terminal in the same folder as the ```.jar``` file
+3. Type ```java -jar KomputerKivi.jar``` and press Enter
+4. Game should open up and work!
 
 📝 **How to Play**
 
