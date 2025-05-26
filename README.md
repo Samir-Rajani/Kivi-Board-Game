@@ -1,4 +1,59 @@
-<a id="readme-top"></a>
+# Kivi-Board-Game
+Java Board Game with AI opponents.
+
+🎮 Game Features:
+
+Pattern-Based Gameplay: Match dice to tile patterns to score.
+
+🎲 Roll & Match: Roll six dice each turn and choose tiles matching the roll.
+
+🤖 Robot Opponents: Play against Normal or Evil AI characters.
+
+👥 Up to 4 Players: Mix of human and robot players.
+
+🎨 Colorful Characters: Choose from Pico, Luna, Byte, Milo, and more.
+
+🕹️ Easy-to-Use Interface: Point-and-click style interaction.
+
+
+📝 **How to Play**
+
+**Start the Game: Launch the game and choose “New Game” from the main menu.**
+
+![new game](https://github.com/user-attachments/assets/34ae7b15-4555-468e-9062-c3f187e2ba01)
+
+
+
+**Select Players**
+
+![player selection](https://github.com/user-attachments/assets/58bec59e-31e6-4a4d-9113-fd595ef4320e)
+
+
+
+**Choose up to 4 players (any combination of humans and robots). Robots can be set to “Normal” or “Evil” difficulty.**
+
+![Capture](https://github.com/user-attachments/assets/7bc2aec2-c9b5-49cb-9c3d-e793b85fc922)
+
+
+**Gameplay**
+
+On your turn, click "Roll Dice".
+
+Use the roll to match tiles on the board.
+
+Valid tiles will be based on patterns (e.g., AAA BB, =1,3,5, or total dice sum).
+
+Spend tokens to claim tiles and score points.
+
+**Scoring & Rounds**
+
+Each tile gives points based on difficulty.
+
+The game continues in rounds until all tiles are claimed or a predefined round limit is reached.
+
+![board](https://github.com/user-attachments/assets/60706507-97a5-4784-849e-09743fc5c53a)
+
+<!---<a id="readme-top"></a>
 <h3 align="center">Kivi Board Game</h3>
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,8 +83,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Board Game
-[![Product Name Screen Shot][product-screenshot]]
+Kivi Board Game is a digital version of the existing board game called Kivi. For the COMP 2005: Software Engineering course at the Memorial University of Newfoundland, our class was tasked with grouping up in teams and building a digital version of the board game Kivi. This is where I partnered with 4 other classmates to build this game.
+
+### Gameplay:
+[insert photo]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -37,7 +94,8 @@ Board Game
 
 
 ### Built With
-Java
+* Java (Java Swing)
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,4 +241,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+[JQuery-url]: https://jquery.com--->
