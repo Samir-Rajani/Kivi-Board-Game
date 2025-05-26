@@ -4,7 +4,7 @@ Java Board Game with AI opponents.
 ## About The Project
 * Kivi Board Game is a digital version of the existing board game called Kivi. 
 * For the COMP 2005: Software Engineering course at the Memorial University of Newfoundland, our class was tasked with grouping up in teams and building a digital version of the board game Kivi. This is where I partnered with 4 other classmates to build this game.
-* Game was awarded as the best in class with a perfect score
+* Game was awarded as the **best** in class with a **perfect** score
   
 ## Code
 * Built with Java (Java Swing)
