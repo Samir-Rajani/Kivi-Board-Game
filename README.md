@@ -53,9 +53,9 @@ The game continues in rounds until all tiles are claimed or a predefined round l
 
 ![board](https://github.com/user-attachments/assets/60706507-97a5-4784-849e-09743fc5c53a)
 
-<!---(<a id="readme-top"></a>
+<!--<a id="readme-top"></a>
 <h3 align="center">Kivi Board Game</h3>
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -81,7 +81,7 @@ The game continues in rounds until all tiles are claimed or a predefined round l
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT --
 ## About The Project
 Kivi Board Game is a digital version of the existing board game called Kivi. For the COMP 2005: Software Engineering course at the Memorial University of Newfoundland, our class was tasked with grouping up in teams and building a digital version of the board game Kivi. This is where I partnered with 4 other classmates to build this game.
 
@@ -101,7 +101,7 @@ Kivi Board Game is a digital version of the existing board game called Kivi. For
 
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED --
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -140,7 +140,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES --
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -151,7 +151,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP --
 ## Roadmap
 
 - [ ] Feature 1
@@ -165,7 +165,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING --
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -189,7 +189,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
+<!-- LICENSE --
 ## License
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
@@ -198,7 +198,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
+<!-- CONTACT --
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
@@ -211,8 +211,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- MARKDOWN LINKS & IMAGES --
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links --
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
@@ -241,4 +241,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com)--->
+[JQuery-url]: https://jquery.com--->
