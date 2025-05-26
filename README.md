@@ -65,6 +65,11 @@ The game continues in rounds until all tiles are claimed or a predefined round l
 
 ![board](https://github.com/user-attachments/assets/60706507-97a5-4784-849e-09743fc5c53a)
 
+## Documentation
+
+* All documentation can be found in the ```docs``` folder
+* Run ```index.html``` in browser
+
 <!--<a id="readme-top"></a>
 <h3 align="center">Kivi Board Game</h3>
 <!-- TABLE OF CONTENTS --
