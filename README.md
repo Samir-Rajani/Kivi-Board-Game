@@ -70,7 +70,7 @@ The game continues in rounds until all tiles are claimed or a predefined round l
 
 ## Documentation
 
-* All documentation can be found in the ```docs``` folder or <a href="https://samir-rajani.github.io/Kivi-Board-Game/">deployed on GitHub.</a>
+* All documentation can be found in the ```docs``` folder or <a href="https://samir-rajani.github.io/Kivi-Board-Game/">deployed on GitHub Pages.</a>
 
 **Color Vision Accessibility:** The game was designed with color accessibility in mind. Examples of what the game would look like for different color sensitivities can be found in the ```color_vision_examples``` folder
 
